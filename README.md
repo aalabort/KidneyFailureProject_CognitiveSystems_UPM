@@ -1,6 +1,6 @@
 # KidneyFailureProject_CognitiveSystems_UPM
 
-ML Project to predict patients with Kidney Failure following the whole CRISP-DM approach.
+ML Project developed with **SPSS Modeler** to predict patients with Kidney Failure following the whole CRISP-DM approach.
 
 Basically the case is that The Health Analytics department from an European hospital wants to create a system to identify those patients that can suffer kidney complications after a new treatment.
 
