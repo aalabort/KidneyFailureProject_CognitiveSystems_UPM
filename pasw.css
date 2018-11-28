@@ -1,0 +1,173 @@
+<STYLE>
+
+#banner  {
+		   position: RELATIVE;
+		   width: 100%;
+		   height: 98px;
+		   z-index : 1;
+		   left: AUTO;
+		   top : AUTO;
+	   background-image : url(backgrounds/seamless-banner.jpg);
+   }
+		   
+
+#navbar  {
+		   position: RELATIVE;
+		   width: 100%;
+		   height: 82px;
+		   z-index : 1;
+		   top : -31px;
+	   background-image : url(backgrounds/navbar.gif);
+   }
+		   
+
+#headingpanel  {
+		   position: RELATIVE;
+		   width: 100%;
+		   height: 116px;
+		   z-index : 1;
+		   top : -31px;
+	   padding-top: 31px;
+   }
+		   
+
+#infopanel  {
+		   position: RELATIVE;
+		   width: 100%;
+		   height: 43px;
+		   z-index : 1;
+	   clear: BOTH;
+	   bottom: 0px;
+	   float: NONE;
+   }
+		   
+
+#savepanel  {
+		   position: ABSOLUTE;
+		   width: 235px;
+		   height: 122px;
+		   z-index : 1;
+		   top : 6px;
+	   background-image : url(backgrounds/savepanel.jpg);
+	   clear: BOTH;
+	   float: RIGHT;
+	   right: 3px;
+   }
+		   
+
+#savepanel2  {
+		   position: ABSOLUTE;
+		   width: 235px;
+		   height: 122px;
+		   z-index : 1;
+		   top : -24px;
+	   background-image : url(backgrounds/savepanel.jpg);
+	   clear: BOTH;
+	   float: RIGHT;
+	   right: 1px;
+   }
+		   
+
+#toplinks  {
+		   position: ABSOLUTE;
+		   width: 200px;
+		   height: 43px;
+		   z-index : 2;
+		   left: 544px;
+		   top : 51px;
+	   float: RIGHT;
+   }
+		   
+
+#controlpanel  {
+		   position: RELATIVE;
+		   width: 208px;
+		   height: AUTO;
+		   z-index : 1;
+	   clear: RIGHT;
+	   bottom: 0px;
+	   float: RIGHT;
+   }
+		   
+
+#TOC  {
+		   position: FIXED;
+		   width: 208px;
+		   height: AUTO;
+		   z-index : 1;
+		   top : 120px;
+	   clear: RIGHT;
+	   float: RIGHT;
+	   right: 12px;
+	   border: thin ridge #4A6DBE;
+	   padding: 12px;
+   }
+		   
+
+#mainpanel  {
+		   position: RELATIVE;
+		   width: AUTO;
+		   height: 4125px;
+		   z-index : 1;
+		   background-color: #ffffff;
+		   left: 16px;
+		   border-right-style: OUTSET;
+		   border-bottom-style: NONE;
+		   border-left-style: INSET;
+		   border-top-color: #545454;
+		   border-bottom-color: #545454;
+		   border-bottom-width: THIN;
+		   border-left-width: THIN;
+		   top : -47px;
+		   border-right-width: THIN;
+		   border-right-color: #4063b5;
+		   margin-right: 16px;
+	        padding : 12px;
+   }
+		   
+
+#mainpanel2  {
+		   position: RELATIVE;
+		   width: AUTO;
+		   height: 650px;
+		   z-index : 1;
+		   background-color: #fcfdfe;
+		   left: 16px;
+		   border-right-style: OUTSET;
+		   border-bottom-style: NONE;
+		   border-left-style: INSET;
+		   border-top-color: #545454;
+		   border-bottom-color: #545454;
+		   border-bottom-width: THIN;
+		   border-left-width: THIN;
+		   top : -47px;
+		   border-right-width: THIN;
+		   border-right-color: #4063b5;
+		   margin-right: 16px;
+   }
+		   
+
+body  {
+		   margin-left: 0px;
+		   margin-top : 0px;
+		   margin-right: 0px;
+		   margin-bottom : 0px;
+	   background-color : #bdc5de;
+	   font-family: Verdana, Arial, Helvetica, sans-serif;
+	   font-size: 1em;
+	   line-height: 1.1em;
+	   font-weight: normal;
+	   color: #011887;
+   }
+		   
+
+#page  {
+		   margin-left: AUTO;
+		   height: AUTO;
+		   margin-right: AUTO;
+	   background-color : #000000;
+	   clear: BOTH;
+	   color: #ffffff;
+   }
+		   
+</STYLE>
